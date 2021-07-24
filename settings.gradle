@@ -1,0 +1,2 @@
+rootProject.name = "Custome_tablayout_with_fragment_kotlin"
+include ':app'
